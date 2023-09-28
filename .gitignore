@@ -17,3 +17,8 @@ frontend/node_modules
 frontend/out
 frontend/.next
 frontend/.vercel
+frontend/.env
+frontend/.envAvalanche
+contracts/lib/ds-test
+contracts/lib/openzeppelin-contracts
+contracts/lib/solmate
