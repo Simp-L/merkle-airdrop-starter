@@ -22,3 +22,4 @@ frontend/.envAvalanche
 contracts/lib/ds-test
 contracts/lib/openzeppelin-contracts
 contracts/lib/solmate
+contracts/lib/solmate
